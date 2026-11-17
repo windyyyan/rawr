@@ -16,7 +16,7 @@
 		<div
 			class="mx-auto flex h-[60px] max-w-[1440px] items-center justify-between px-6 lg:h-[72px] lg:px-24"
 		>
-			<a href="/" class="text-[15px] font-semibold lg:text-base">nama.kamu</a>
+			<a href="/" class="text-[15px] font-semibold lg:text-base">Windyana Andika</a>
 
 			<div class="flex items-center gap-2 lg:gap-8">
 				<nav class="hidden items-center gap-7 lg:flex">
@@ -87,12 +87,12 @@
 		<h1
 			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[232px] lg:tracking-[-9px]"
 		>
-			Nama Kamu
+			Windyana Andika
 		</h1>
 
 		<div class="mt-7 flex flex-col gap-6">
 			<p class="max-w-[560px] text-[17px] leading-[1.6] text-muted lg:text-xl">
-				Siswa SMK jurusan RPL. Membangun antarmuka web yang cepat, rapi, dan mudah dipakai.
+				Siswa SMK jurusan PPLG. Membangun antarmuka web yang cepat, rapi, dan mudah dipakai.
 			</p>
 
 			<div class="flex items-center gap-3">
@@ -124,7 +124,7 @@
 			class="h-[220px] w-full object-cover lg:h-[420px]"
 		/>
 		<div class="mx-auto max-w-[1440px] px-6 py-4 lg:px-24">
-			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB RPL — SMK NEGERI 1 · 2026</p>
+			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB PPLG — SMK NEGERI 8 · 2026</p>
 		</div>
 	</div>
 
@@ -337,7 +337,7 @@
 				class="flex flex-col items-start gap-4 lg:flex-row lg:items-center lg:justify-between lg:gap-6"
 			>
 				<a href="mailto:kamu@email.com" class="font-mono text-xs tracking-[1.1px] text-primary">
-					kamu@email.com
+					andikawindyyana@email.com
 				</a>
 				<div class="flex items-center gap-6">
 					<a href="#proyek" class="font-mono text-[11px] tracking-[1.1px] text-muted">PROYEK</a>
